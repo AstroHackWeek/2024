@@ -1310,8 +1310,9 @@
 /* Basic */
 
 	body {
-		background-color: #6d4f78;/*#183026; */
-		background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");
+		background-color: #183026;/*#6d4f78;/*#183026; */
+		background-image: url("../../images/campus.webp"), url("../../images/campus.webp");
+		/*background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");*/
 		/*background-image: url("images/overlay.png"), url("../../images/bkg_small.png");*/
 		background-repeat: repeat, no-repeat;
 		background-size: auto, cover;
@@ -2040,7 +2041,7 @@
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #6d4f78 url("images/banner.svg") bottom center no-repeat;
+		background: #3f5482 /*#6d4f78*/ url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
