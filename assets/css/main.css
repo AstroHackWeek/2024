@@ -2293,7 +2293,8 @@
 
 			body {
 				background-color: #6d4f78;/*#203936;*/
-				background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");*/
+				background-image: url("../../images/campus.webp"), url("../../images/campus.webp");
+				/*background-image: url("../../images/flatiron.jpg"), url("../../images/flatiron.jpg");*/
 				background-repeat: no-repeat, no-repeat;
 				background-size: auto, 100% auto;
 				background-position: top left, top center;
