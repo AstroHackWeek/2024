@@ -1,4 +1,4 @@
-# AstroHackWeek 2020 website
+# AstroHackWeek 2022 website
 
 Overflow by HTML5 UP
 html5up.net | @ajlkn
