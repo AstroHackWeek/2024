@@ -1,0 +1,18 @@
+{
+    // Autosave with a delay of 5000 milliseconds
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+
+    // Remove trailing spaces on save
+    "files.trimTrailingWhitespace": true,
+
+    // Ensure a final new line at the end of the file
+    "files.insertFinalNewline": true,
+    "grammarly.selectors": [
+        {
+            "language": "html",
+            "scheme": "file",
+            "pattern": "index.html"
+        }
+    ]
+}
